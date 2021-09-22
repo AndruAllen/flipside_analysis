@@ -1,1 +1,1 @@
-A sample of analysis done for https://www.flipsidecrypto.com/ bounties
+Analysis done for https://www.flipsidecrypto.com/ bounties
